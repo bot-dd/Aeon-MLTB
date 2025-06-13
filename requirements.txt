@@ -1,3 +1,4 @@
+python-dotenv
 aria2p
 asyncio
 aiofiles
